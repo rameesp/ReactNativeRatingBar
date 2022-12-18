@@ -1,0 +1,43 @@
+{
+  "name": "react-native-rating-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameesp/ReactNativeRatingBar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "stepper",
+    "progress",
+    "progress-steps"
+  ],
+  "author": "Ramees P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rameesp/ReactNativeRatingBar/issues"
+  },
+  "homepage": "https://github.com/rameesp/ReactNativeRatingBar#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.73.6"
+  },
+  "peerDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.6"
+  },
+  "dependencies": {
+    "react-native-svg": "^13.6.0"
+  }
+}
